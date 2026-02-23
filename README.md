@@ -20,7 +20,6 @@ Tokyo Night — consistent across Kitty, Zellij, and Neovim.
 
 ## Install
 ```bash
-cat > ~/dotfiles/README.md << 'EOF'
 # barmanji/dotfiles
 
 My personal terminal setup for Ubuntu/Debian. One script to rule them all.
